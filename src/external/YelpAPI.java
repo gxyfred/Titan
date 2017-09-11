@@ -25,8 +25,8 @@ public class YelpAPI {
 	private static final String SEARCH_PATH = "/v3/businesses/search";
 	
 	private static final String TOKEN_HOST = "https://api.yelp.com/oauth2/token";
-    private static final String CLIENT_ID = "oRSpH9eVKZR7EzQCuMWSlw";
-    private static final String CLIENT_SECRET = "ckUgxWCPQcMEYpWMyHPNGER5tplkX6qGiZNd6zdKdpmZO8icokC0B52d1DSWgvAv";
+    private static final String CLIENT_ID = "xxxxxxxxxxxxxxxxxx";
+    private static final String CLIENT_SECRET = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
     private static final String GRANT_TYPE = "client_credentials";
     private static final String TOKEN_TYPE = "Bearer";
 
